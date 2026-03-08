@@ -2,8 +2,8 @@
  {
   "name":"Ultra Control Center",
   "desc":"Best control center for Android",
-  "icon":"https://yourserver/icon1.png",
-  "apk":"https://yourserver/app1.apk",
+  "icon":"https://i.postimg.cc/YCXckYZ6/ultracontrolcenter.jpg",
+  "apk":"https://github.com/kelvinamoscharles-prog/Ultra-Control-Center/releases/download/apk/UltraControlCenter.apk",
   "screenshots":[
    "https://yourserver/ss1.png",
    "https://yourserver/ss2.png"
@@ -12,11 +12,11 @@
  {
   "name":"Ultra Whats",
   "desc":"Advanced WhatsApp client",
-  "icon":"https://yourserver/icon2.png",
-  "apk":"https://yourserver/app2.apk",
+  "icon":"https://i.postimg.cc/q7Y960k6/ultrawhatspro.png",
+  "apk":"https://archive.org/download/ultra-whats-pro/UltraWhats_release.apk",
   "screenshots":[
-   "https://yourserver/ss3.png",
-   "https://yourserver/ss4.png"
+   "https://i.ibb.co/35VGMCNZ/Screenshot-20260305-122841-Ultra-Whats.jpg",
+   "https://i.ibb.co/XrC63Sd7/Screenshot-20260305-122813-Ultra-Whats.jpg"
   ]
  }
 ]
