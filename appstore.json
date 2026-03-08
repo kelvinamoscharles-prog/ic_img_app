@@ -1,0 +1,20 @@
+[
+ {
+  "name":"Ultra Control Center",
+  "desc":"Description here...",
+  "icon":"https://yourserver/icon1.png",
+  "apk":"https://yourserver/app1.apk"
+ },
+ {
+  "name":"Ultra Whats",
+  "desc":"Description here...",
+  "icon":"https://yourserver/icon2.png",
+  "apk":"https://yourserver/app2.apk"
+ },
+ {
+  "name":"Nexus Shell",
+  "desc":"Description here...",
+  "icon":"https://yourserver/icon3.png",
+  "apk":"https://yourserver/app3.apk"
+ }
+]
