@@ -1,20 +1,22 @@
 [
  {
   "name":"Ultra Control Center",
-  "desc":"Description here...",
+  "desc":"Best control center for Android",
   "icon":"https://yourserver/icon1.png",
-  "apk":"https://yourserver/app1.apk"
+  "apk":"https://yourserver/app1.apk",
+  "screenshots":[
+   "https://yourserver/ss1.png",
+   "https://yourserver/ss2.png"
+  ]
  },
  {
   "name":"Ultra Whats",
-  "desc":"Description here...",
+  "desc":"Advanced WhatsApp client",
   "icon":"https://yourserver/icon2.png",
-  "apk":"https://yourserver/app2.apk"
- },
- {
-  "name":"Nexus Shell",
-  "desc":"Description here...",
-  "icon":"https://yourserver/icon3.png",
-  "apk":"https://yourserver/app3.apk"
+  "apk":"https://yourserver/app2.apk",
+  "screenshots":[
+   "https://yourserver/ss3.png",
+   "https://yourserver/ss4.png"
+  ]
  }
 ]
