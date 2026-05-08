@@ -1,1 +1,8 @@
 
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "updateUrl": "https://github.com/USER_WAKO/REPO_YAKO/releases/download/v1.1/NexusDial_v1.1.apk",
+  "forceUpdate": false,
+  "changelog": "• Tumeongeza mfumo wa kupanga simu kwa tarehe (Leo/Jana)\n• Tumeboresha muonekano wa viganja (UI)\n• Tumesafisha makosa madogo ya kiufundi (Bugs)"
+}
